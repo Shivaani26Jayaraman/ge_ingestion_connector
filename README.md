@@ -6,8 +6,8 @@ This repository serves as a foundational project template and can be utilized to
 
 ## Features
 
-Fibonacci Sequence Generator : Iteratively generates a list of Fibonacci numbers up to a specified length `n` with O(n) time complexity.
-Factorial Calculator : Efficiently computes the product of all positive integers up to `n` while handling edge cases (like zero and negative numbers) robustly.
+* **Fibonacci Sequence Generator**: Iteratively generates a list of Fibonacci numbers up to a specified length `n` with O(n) time complexity.
+* **Factorial Calculator**: Efficiently computes the product of all positive integers up to `n` while handling edge cases (like zero and negative numbers) robustly.
 
 ## Installation
 
